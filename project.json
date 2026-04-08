@@ -1,0 +1,20 @@
+{
+  "overview": "A 3-level sequential puzzle game where players solve a passcode, decode Morse code, and follow a phone number clue to unlock the final reward link.",
+  "features": [
+    "Level 1: Enter passcode '1265' to advance",
+    "Level 2: Decode Morse code to find '5385'",
+    "Level 3: Phone number reveal with secret text message clue",
+    "Visual level progression counter",
+    "Celebration animations on level completion",
+    "Final reward screen after all levels complete"
+  ],
+  "category": "game",
+  "tags": [
+    "puzzle",
+    "game",
+    "levels",
+    "morse-code",
+    "interactive"
+  ],
+  "last_updated": "2026-04-08T23:04:02.076Z"
+}
